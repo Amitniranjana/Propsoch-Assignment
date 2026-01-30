@@ -60,4 +60,8 @@ This repository contains the improved landing page for Propsoch, built as part o
 Contact details:
 - Name: Amit Niranjan
 - Email: yamitniranjan1234@gmail.com
+<<<<<<< HEAD
 - Phone: +91 8542935871
+=======
+- Phone: +91 8542935871
+>>>>>>> d8220ac4aea03e9c1f2772ee76394c37597deb8d
