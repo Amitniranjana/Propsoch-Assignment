@@ -3,7 +3,7 @@
 This repository contains the improved landing page for Propsoch, built as part of the Frontend Intern Assignment.
 
 ## 🚀 Live Demo
-
+https://propsoch-assignment-ten.vercel.app/
 
 ## 🛠️ Technical Stack
 - **Framework**: Next.js 15 (App Router)
