@@ -40,7 +40,7 @@ This repository contains the improved landing page for Propsoch, built as part o
 
 1. Clone the repo:
    ```bash
-   git clone 
+   git clone https://github.com/Amitniranjana/Propsoch-Assignment.git
    ```
 2. Install dependencies:
    ```bash
@@ -56,3 +56,8 @@ This repository contains the improved landing page for Propsoch, built as part o
 - `/components`: Reusable UI components (Hero, Navbar, PropertyCard, etc.)
 - `/app`: Next.js App Router pages and global layouts
 - `Analysis.md`: Detailed analysis of the original site UX/UI and Lighthouse scores.
+
+Contact details:
+- Name: Amit Niranjan
+- Email: yamitniranjan1234@gmail.com
+- Phone: +91 8542935871
